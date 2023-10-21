@@ -4,7 +4,9 @@ Laravel Orion allows you to build a fully featured REST API based on your Eloque
 
 ## Installation
 
+```php
 composer require namaa-solutions/laravel-orion
+```
 
 ## Official Documentation
 
